@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ali sadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali sadiq" height="30" width="40" /></a>
 <a href="https://instagram.com/alisadiq336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisadiq336" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alisadiqminhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alisadiqminhas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AliSadiqMinhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alisadiqminhas" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/@me/1191414506170089545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me/1191414506170089545" height="30" width="40" /></a>
 </p>
 
